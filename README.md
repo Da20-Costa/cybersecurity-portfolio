@@ -33,5 +33,5 @@ Abaixo estão os principais projetos incluídos neste portfólio. Clique no tít
 -->
 
 ## 📫 Como contactar-me
-- **LinkedIn:** [O seu link do LinkedIn]
-- **Email:** [O seu email]
+- **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
+- **Email:** da20.sousacosta@gmail.com
