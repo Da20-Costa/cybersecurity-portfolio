@@ -30,7 +30,7 @@ A minha base no desenvolvimento de software permite-me ter uma compreensão prof
 ### 3. [Investigação de Dados de Segurança com SQL](./sql-consultas/)
 * **Descrição:** Criação de consultas SQL avançadas (filtros, junções) para analisar registos e identificar potenciais eventos de segurança e anomalias na base de dados.
 
-### 4. [Resposta a Incidentes e Análise de Rede](./resposta-a-incidentes/)
+### 4. [Resposta a Incidentes e Análise de Rede](./analise-de-trafego-rede/)
 * **Descrição:** Documentação detalhada de incidentes de segurança através de um diário de tratamento, detalhando o vetor de ataque, análise de tráfego e os passos de mitigação.
 
 ## 📫 Como contactar-me
