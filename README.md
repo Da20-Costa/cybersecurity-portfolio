@@ -19,8 +19,6 @@ My software development background provides me with a deep understanding of the 
 
 ## 📁 Featured Projects & Audits
 
-*(Note: The links below will become active as you add the folders to the repository)*
-
 ### 1. [Security Audit and Risk Assessment](./auditorias-de-seguranca/)
 * **Description:** Conducted a security audit to identify vulnerabilities within an infrastructure and recommended mitigations based on industry-standard frameworks.
 
@@ -30,7 +28,7 @@ My software development background provides me with a deep understanding of the 
 ### 3. [Security Data Investigation with SQL](./sql-consultas/)
 * **Description:** Created advanced SQL queries (filters, joins) to analyze logs and identify potential security events and database anomalies.
 
-### 4. [Incident Response & Network Analysis](./resposta-a-incidentes/)
+### 4. [Incident Response & Network Analysis](./analise-de-trafego-rede/)
 * **Description:** Documented security incidents in detail using an incident handler's journal, detailing the attack vector, traffic analysis, and mitigation steps.
 
 ## 📫 Contact Me
