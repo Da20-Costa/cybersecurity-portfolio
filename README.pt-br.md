@@ -33,6 +33,9 @@ A minha base no desenvolvimento de software permite-me ter uma compreensão prof
 ### 4. [Resposta a Incidentes e Análise de Rede](./analise-de-trafego-rede/)
 * **Descrição:** Documentação detalhada de incidentes de segurança através de um diário de tratamento, detalhando o vetor de ataque, análise de tráfego e os passos de mitigação.
 
+* ### 5. [Análise de Incidente via NIST CSF](./nist-csf-incident-analysis/)
+* **Descrição:** Aplicação do Framework de Cibersegurança NIST (Identificar, Proteger, Detetar, Responder, Recuperar) para analisar um ataque DoS por ICMP Flood e desenhar uma estratégia abrangente de mitigação.
+
 ## 📫 Como contactar-me
 - **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
 - **Email:** da20.sousacosta@gmail.com
