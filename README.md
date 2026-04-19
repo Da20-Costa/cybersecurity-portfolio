@@ -31,7 +31,7 @@ My software development background provides me with a deep understanding of the 
 ### 4. [Incident Response & Network Analysis](./analise-de-trafego-rede/)
 * **Description:** Documented security incidents in detail using an incident handler's journal, detailing the attack vector, traffic analysis, and mitigation steps.
 
-### 9. [NIST CSF Incident Analysis](./nist-csf-incident-analysis/)
+### 5. [NIST CSF Incident Analysis](./nist-csf-incident-analysis/)
 * **Description:** Applied the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover) to analyze an ICMP Flood DoS attack and design a comprehensive incident response and mitigation strategy.
 
 ## 📫 Contact Me
