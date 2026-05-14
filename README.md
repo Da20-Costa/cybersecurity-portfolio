@@ -37,6 +37,9 @@ My software development background provides me with a deep understanding of the 
 ### 6. [Data Risk Assessment & Least Privilege](./data-risk-assessment-nist/)
 * **Description:** Investigated an internal data leak and applied the NIST SP 800-53 (AC-6) framework to recommend access control enhancements and enforce the principle of least privilege.
 
+### 7. [Access Control Incident Investigation](./investigacao-controle-acessos/)
+* **Description:** Correlated event logs with employee records to investigate an insider threat, identifying offboarding failures and recommending RBAC and MFA implementations.
+
 ## 📫 Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
 * **Email:** da20.sousacosta@gmail.com
