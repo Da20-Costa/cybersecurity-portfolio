@@ -33,8 +33,17 @@ A minha base no desenvolvimento de software permite-me ter uma compreensão prof
 ### 4. [Resposta a Incidentes e Análise de Rede](./analise-de-trafego-rede/)
 * **Descrição:** Documentação detalhada de incidentes de segurança através de um diário de tratamento, detalhando o vetor de ataque, análise de tráfego e os passos de mitigação.
 
-* ### 5. [Análise de Incidente via NIST CSF](./nist-csf-incident-analysis/)
+### 5. [Análise de Incidente via NIST CSF](./nist-csf-incident-analysis/)
 * **Descrição:** Aplicação do Framework de Cibersegurança NIST (Identificar, Proteger, Detetar, Responder, Recuperar) para analisar um ataque DoS por ICMP Flood e desenhar uma estratégia abrangente de mitigação.
+
+### 6. [Data Risk Assessment & Least Privilege](./data-risk-assessment-nist/)
+* **Descrição:** Investigação de um vazamento de dados interno e aplicação da norma NIST SP 800-53 (AC-6) para recomendar melhorias no controlo de acessos e impor o princípio do menor privilégio.
+
+### 7. [Access Control Incident Investigation](./investigacao-controle-acessos/)
+* **Descrição:** Correlação de logs de eventos com registos de funcionários para investigar uma ameaça interna (insider threat), identificando falhas de offboarding e recomendando a implementação de RBAC e MFA.
+
+### 8. [Incident Handling: Ransomware Attack](./resposta-incidente-ransomware/)
+* **Descrição:** Documentação de um ataque simulado de ransomware numa clínica de saúde utilizando um Diário de Tratamento de Incidentes, detalhando o vetor de ataque e propondo estratégias de prevenção e recuperação.
 
 ## 📫 Como contactar-me
 - **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
