@@ -40,6 +40,9 @@ My software development background provides me with a deep understanding of the 
 ### 7. [Access Control Incident Investigation](./investigacao-controle-acessos/)
 * **Description:** Correlated event logs with employee records to investigate an insider threat, identifying offboarding failures and recommending RBAC and MFA implementations.
 
+### 8. [Incident Handling: Ransomware Attack](./resposta-incidente-ransomware/)
+* **Description:** Documented a simulated ransomware attack on a healthcare clinic using an Incident Handler's Journal, detailing the attack vector and proposing disaster recovery and prevention strategies.
+
 ## 📫 Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
 * **Email:** da20.sousacosta@gmail.com
