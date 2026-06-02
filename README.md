@@ -43,6 +43,9 @@ My software development background provides me with a deep understanding of the 
 ### 8. [Incident Handling: Ransomware Attack](./resposta-incidente-ransomware/)
 * **Description:** Documented a simulated ransomware attack on a healthcare clinic using an Incident Handler's Journal, detailing the attack vector and proposing disaster recovery and prevention strategies.
 
+### 9. [Comprehensive Incident Handler's Journal](./incident-handlers-journal/)
+* **Description:** Maintained a formal incident logbook documenting ransomware response, VirusTotal hash investigations, and network traffic analysis using Wireshark and tcpdump CLI.
+
 ## 📫 Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
 * **Email:** da20.sousacosta@gmail.com
