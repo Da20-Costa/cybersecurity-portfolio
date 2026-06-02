@@ -45,6 +45,9 @@ A minha base no desenvolvimento de software permite-me ter uma compreensão prof
 ### 8. [Incident Handling: Ransomware Attack](./resposta-incidente-ransomware/)
 * **Descrição:** Documentação de um ataque simulado de ransomware numa clínica de saúde utilizando um Diário de Tratamento de Incidentes, detalhando o vetor de ataque e propondo estratégias de prevenção e recuperação.
 
+### 9. [Diário Completo de Resposta a Incidentes](./incident-handlers-journal/)
+* **Descrição:** Manutenção de um registo formal de incidentes documentando a resposta a ransomware, investigação de hashes no VirusTotal e análise de tráfego de rede utilizando Wireshark e tcpdump (CLI).
+
 ## 📫 Como contactar-me
 - **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
 - **Email:** da20.sousacosta@gmail.com
