@@ -46,6 +46,9 @@ My software development background provides me with a deep understanding of the 
 ### 9. [Comprehensive Incident Handler's Journal](./incident-handlers-journal/)
 * **Description:** Maintained a formal incident logbook documenting ransomware response, VirusTotal hash investigations, and network traffic analysis using Wireshark and tcpdump CLI.
 
+### 10. [Security Automation with Python](./python-automacao-seguranca/)
+* **Description:** Developed a Python algorithm using file handling (`open`, `read`, `write`) and iterative logic to automate the auditing and updating of IP address access control lists.
+
 ## 📫 Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
 * **Email:** da20.sousacosta@gmail.com
