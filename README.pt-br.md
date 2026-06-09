@@ -48,6 +48,9 @@ A minha base no desenvolvimento de software permite-me ter uma compreensão prof
 ### 9. [Diário Completo de Resposta a Incidentes](./incident-handlers-journal/)
 * **Descrição:** Manutenção de um registo formal de incidentes documentando a resposta a ransomware, investigação de hashes no VirusTotal e análise de tráfego de rede utilizando Wireshark e tcpdump (CLI).
 
+### 10. [Automação de Segurança com Python](./python-automacao-seguranca/)
+* **Descrição:** Desenvolvimento de um algoritmo em Python utilizando manipulação de ficheiros (`open`, `read`, `write`) e lógica iterativa para automatizar a auditoria e atualização de listas de controlo de acesso de endereços IP.
+
 ## 📫 Como contactar-me
 - **LinkedIn:** https://www.linkedin.com/in/davi-costa-ti/
 - **Email:** da20.sousacosta@gmail.com
